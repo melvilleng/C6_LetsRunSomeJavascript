@@ -5,4 +5,4 @@ function Greetr(){
     }
 }
 
-module.exports= new Greetr();
+module.exports= Greetr;
